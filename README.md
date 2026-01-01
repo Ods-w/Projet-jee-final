@@ -28,10 +28,11 @@
 
 
 ## 3 Repositories
-#### J’ai créé des interfaces JPA Repository pour chaque entité :
-#### CustomerRepository
-#### BankAccountRepository
-#### AccountOperationRepository
+#### Pour gérer l’accès aux données et la persistance, j’ai créé des interfaces Repository en utilisant Spring Data JPA. Ces interfaces permettent d’effectuer facilement des opérations CRUD sans implémentation manuelle.
+##### CustomerRepository : permet de gérer les clients et inclut une méthode personnalisée searchCustomer pour rechercher des clients par nom.
+#### BankAccountRepository : gère les comptes bancaires, qu’ils soient courants ou d’épargne.
+#### AccountOperationRepository : gère les opérations bancaires (CRÉDIT / DÉBIT) et offre des méthodes pour récupérer les opérations par compte, avec ou sans pagination et tri par date décroissante.
+#### Ces repositories simplifient l’interaction avec la base de données et facilitent l’implémentation du backend.
 <img width="1911" height="387" alt="image" src="https://github.com/user-attachments/assets/59eda1c5-8f59-46cc-954a-b5fee6d3be67" />
 
 ### Frontend (Angular) :
@@ -56,6 +57,8 @@
 #### La configuration inclut également le CORS, pour permettre l’accès depuis le frontend.
 
 <img width="1907" height="596" alt="image" src="https://github.com/user-attachments/assets/63afc985-e610-4c51-8d5b-7349c243d882" />
+
+<img width="1902" height="858" alt="image" src="https://github.com/user-attachments/assets/31ad1834-47a7-4e72-89de-5b0a43703a3a" />
 
 
 ## 5. Conclusion 
