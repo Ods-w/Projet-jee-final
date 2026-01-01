@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 #### J’ai réalisé une application permettant de gérer des comptes bancaires avec l’aide d’un agent intelligent (AI). Cette application permet de gérer des clients,
-#### leurs comptes et les opérations effectuées sur ces comptes (débit ou crédit).
+#### leurs comptes et les opérations effectuées sur ces comptes .
 #### L’objectif est de créer un outil fonctionnel pour comprendre la gestion des comptes bancaires et la programmation des web services sécurisés.
 
 ## 2. Architecture du projet
@@ -41,13 +41,14 @@
 #### de consulter les opérations de type CRÉDIT ou DÉBIT en temps réel, et assure la communication sécurisée avec le backend. Le frontend inclut l’authentification et l’autorisation côté client,
 #### une navigation fluide entre les pages, ainsi que l’utilisation de DTO pour ne présenter que les informations nécessaires.. Il offre également une interface graphique intuitive pour la création et la consultation des clients,
 #### la gestion des comptes courants et d’épargne,et l’enregistrement des opérations bancaires. À titre d’illustration, j’ai ajouté une capture de la page de connexion affichant le formulaire d’authentification.
-<img width="1033" height="548" alt="image" src="https://github.com/user-attachments/assets/4f85ab34-d631-4c5c-8320-5e60cc6d8527" />
+  <img width="1915" height="511" alt="image" src="https://github.com/user-attachments/assets/fe92da68-a701-4b14-acae-59487f7c86e2" />
+
+  <img width="1908" height="487" alt="image" src="https://github.com/user-attachments/assets/9383eb3e-e643-4c91-9dbe-a4ead4019df6" />
 
 #### Liste des clients : affichage des clients
-<img width="1037" height="547" alt="image" src="https://github.com/user-attachments/assets/4f08259e-8cc2-420f-bcda-4af973eb5008" />
+<img width="1918" height="367" alt="image" src="https://github.com/user-attachments/assets/d300b608-7270-499d-af29-1daa19964264" />
 
-#### Formulaire de création de compte 
-<img width="1033" height="542" alt="image" src="https://github.com/user-attachments/assets/dad3491c-d252-40d7-a5ac-3c1a1d3a6d7a" />
+<img width="1918" height="423" alt="image" src="https://github.com/user-attachments/assets/4d838830-dc72-4c22-9ec6-e725959c180d" />
 
 ### Sécurité:
 #### La sécurité de l’application est assurée avec Spring Security et des tokens JWT. J’ai configuré des utilisateurs en mémoire pour le développement,
