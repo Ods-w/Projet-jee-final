@@ -1,10 +1,7 @@
 ## Rapport du Projet : Gestion de Comptes Bancaires avec Agent AI
 
 ## 1. Introduction
-#### J’ai réalisé une application permettant de gérer des comptes bancaires avec l’aide d’un agent intelligent (AI). Cette application permet de gérer des clients,
-#### leurs comptes et les opérations effectuées sur ces comptes .
-#### L’objectif est de créer un outil fonctionnel pour comprendre la gestion des comptes bancaires et la programmation des web services sécurisés.
-
+#### J’ai réalisé une application permettant de gérer des comptes bancaires avec l’aide d’un agent intelligent (IA). Cette application permet de gérer les clients, leurs comptes ainsi que les opérations effectuées sur ces comptes. L’objectif principal est de créer un outil fonctionnel et pédagogique, permettant de comprendre la gestion bancaire, la modélisation des données et le développement de web services sécurisés. Le projet met également en pratique les concepts fondamentaux des applications distribuées, tels que la persistance des données, l’architecture client-serveur, la communication via API REST, et l’intégration d’un frontend web moderne pour offrir une interface utilisateur intuitive et sécurisée.
 ## 2. Architecture du projet
 <img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/3044a143-817d-491a-a3cf-5c61f9f9790a" />
 
