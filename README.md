@@ -31,6 +31,8 @@
 #### AccountOperationRepository : gère les opérations bancaires (CRÉDIT / DÉBIT) et offre des méthodes pour récupérer les opérations par compte, avec ou sans pagination et tri par date décroissante.
 #### Ces repositories simplifient l’interaction avec la base de données et facilitent l’implémentation du backend.
 <img width="1911" height="387" alt="image" src="https://github.com/user-attachments/assets/59eda1c5-8f59-46cc-954a-b5fee6d3be67" />
+### Base de donnees
+<img width="1887" height="788" alt="image" src="https://github.com/user-attachments/assets/f2b940ae-2bde-43b6-9580-5ae2465a59a9" />
 
 ### Frontend (Angular) :
 #### Après avoir développé le backend avec Spring Boot, j’ai créé le frontend avec Angular, qui constitue l’interface utilisateur de l’application. Le frontend récupère et affiche les donnée
