@@ -45,7 +45,7 @@
 #### Liste des clients : affichage des clients
 <img width="1918" height="367" alt="image" src="https://github.com/user-attachments/assets/d300b608-7270-499d-af29-1daa19964264" />
 
-<img width="1918" height="423" alt="image" src="https://github.com/user-attachments/assets/4d838830-dc72-4c22-9ec6-e725959c180d" />
+<img width="1917" height="698" alt="image" src="https://github.com/user-attachments/assets/d130c26b-6278-4b09-b5bc-8bbaf0dbe449" />
 
 ### Sécurité:
 #### La sécurité de l’application est assurée avec Spring Security et des tokens JWT. J’ai configuré des utilisateurs en mémoire pour le développement,
